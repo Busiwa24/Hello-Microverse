@@ -1,20 +1,12 @@
-My first Micronaut Project
+#My-first-Micronaut-Project
 
-> This is my first project as a Microverse student.
-
-![screenshot]()
-
-In this project I have added Linters for HTMLand CSS. I have also added gitignore file to hide two unnecessary files
+> This is my first project as a Microverse where I add Linters for HTMLand CSS. I add gitignore file to hide two unnecessary files
 
 ## Built With
 
 - HTML
 - CSS
 - Using VS Code
-
-## Live Demo
-
-[Live Demo Link](#)
 
 
 ## Getting Started
@@ -35,11 +27,6 @@ To get a local copy up and running follow these simple example steps.
 -clone the repo to local machine.
 -use the following link (https://github.com/Busiwa24/Hello-Microverse)
 
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 👤 **Author**
