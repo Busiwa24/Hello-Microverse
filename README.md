@@ -2,6 +2,9 @@
 
 > This is my first project as a Microverse where I add Linters for HTMLand CSS. I add gitignore file to hide two unnecessary files
 
+## Screenshot
+![screenshot](Screenshot.png)
+
 ## Built With
 
 - HTML
